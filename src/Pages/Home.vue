@@ -1,5 +1,13 @@
 <template>
-    <div class="container">
-        <h1>Advance School Management System</h1>
+    <div>
+        <h1 class="d-flex justify-content-center">COMING SOON!....</h1>
     </div>
 </template>
+
+<script>
+    export default {
+        computed: {
+
+        }
+    }
+</script>
